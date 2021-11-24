@@ -54,7 +54,6 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 Styling html with tailwindcss has been superfun and complicated at the same time. the tailwind config.js feature which allows you to create your own styles was quite intesting to use. 
 Here are my favorite codes because of how dificult they were to achieve;
 
@@ -68,7 +67,10 @@ THE LEARN MORE BUTTON
 MOBILE MENU
 <div class="absolute top-12 -right-8 w-16 h-16 bg-white transform rotate-45"></div>
   <div class="absolute top-20 left-0 w-full ml-6 bg-white text-center">
-<a>.......</a
+<a href="#" class="p-6 block cursor-pointer m-auto mobile">About</a>
+ <a href="#" class="p-6 block cursor-pointer m-auto mobile">Services</a>
+ <a href="#" class="p-6 block cursor-pointer m-auto mobile">Projects</a>
+<a href="#" class="p-6 block cursor-pointer m-auto rounded-full font-black hover:text-primary-white bg-primary-button1 uppercase text-primary-photo font-fraunces"> Contacts</a>
      </div>
      
 JAVASCRIPT
@@ -82,3 +84,12 @@ icon.addEventListener('click' , () =>{
     }
 
 })
+### Continued development
+CSS
+JAVASCRIPT
+
+# Acknowledgments
+
+GROUP 75 MEMBERS
+SIDE HUSTLE INTERNSHIP 4.0
+@mentor Faruq
