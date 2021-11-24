@@ -27,24 +27,25 @@ This is a solution to the [Sunnyside agency landing page challenge on Frontend M
 Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
-- See hover states for all interactive elements on the page
+- See hover states for a
 
 ### Screenshot
 
 ![](./screenshot.jpg)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
+![Annotation 2021-11-24 182453](https://user-images.githubusercontent.com/68693000/143294179-3674ab06-db6e-4005-a8eb-3813d4733179.jpg)
+![Annotation 2021-11-24 182505](https://user-images.githubusercontent.com/68693000/143294186-0cce8100-3a10-4134-97b1-22c8b7e5cf80.jpg)
+![Annotation 2021-11-24 182516](https://user-images.githubusercontent.com/68693000/143294187-f783876c-fe98-4407-a3ce-2903e69c657a.jpg)
+![Annotation 2021-11-24 182524](https://user-images.githubusercontent.com/68693000/143294188-b6bb81f5-736e-40c7-a708-f3eb6e99d17b.jpg)
+![Annotation 2021-11-24 182532](https://user-images.githubusercontent.com/68693000/143294192-5074d8f8-3d55-4a00-abf8-862a05a04156.jpg)
+![Annotation 2021-11-24 182539](https://user-images.githubusercontent.com/68693000/143294195-df6f5189-8b4a-4a6f-8d1c-cfb88d91e618.jpg)
+ll interactive elements on the page
 
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it.
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://sunnyside-agency-capstone-project.vercel.app/](https://your-live-site-url.com)
 
 ## My process
 
