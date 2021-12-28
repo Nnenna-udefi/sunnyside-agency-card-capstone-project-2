@@ -13,11 +13,11 @@ module.exports = {
     }),
     extend: {
       backgroundImage: {
-        header: "url('images/desktop images/image-header.jpg')",
-        graphic: "url('images/desktop images/image-graphic-design.jpg')",
-        photo: "url('images/desktop images/image-photography.jpg')",
-        header2: "url('images/mobile images/image-header.jpg')",
-        photo2: "url('images/mobile images/image-graphic-design.jpg')",
+        header: "url('images/desktop-images/image-header.jpg')",
+        graphic: "url('images/desktop-images/image-graphic-design.jpg')",
+        photo: "url('images/desktop-images/image-photography.jpg')",
+        header2: "url('images/mobile-images/image-header.jpg')",
+        photo2: "url('images/mobile-images/image-graphic-design.jpg')",
    
       },
       fontFamily: {
@@ -29,7 +29,7 @@ module.exports = {
           gray: 'hsl(232, 10%, 55%)',
           graphic: 'hsl(167, 40%, 24%)',
           photo: 'hsl(198, 62%, 26%)',
-          footer: 'hsl(168, 34%, 41%)',
+          footer: 'hsl(167, 67%, 34%)',
           button1: 'hsl(51, 100%, 49%)',
           button2: 'hsl(7, 99%, 70%)',
           head: 'hsl(212, 27%, 19%)',
